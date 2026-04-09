@@ -1,4 +1,4 @@
-# bright-coffee-shop-sales-analisys
+# bright-coffee-shop-sales-analysis
 Sales Analisys
 # The new CEO have been hired at Bright Coffee Shop chain of stores,he needs to understand what might be the cause of sales decline in the past six months in these stores.
 
